@@ -1,4 +1,4 @@
-# All Entra ID Pwoershell scripts description
+# All Entra ID Powershell scripts description
 
 ## Retrieve Entra Applications and Recent Sign-Ins
 
